@@ -6,7 +6,7 @@
             "cStandard": "c17",
             "cppStandard": "c++20",
             "intelliSenseMode": "msvc-x64",
-            "compileCommands": "D:\\UnrealProj\\UE5Course\\ToonTanks\\.vscode\\compileCommands_ToonTanks.json"
+            "compileCommands": "D:\\UnrealProj\\UE5Course\\TinyTanks\\.vscode\\compileCommands_ToonTanks.json"
         },
         {
             "name": "Win32",
@@ -14,7 +14,7 @@
             "cStandard": "c17",
             "cppStandard": "c++20",
             "intelliSenseMode": "msvc-x64",
-            "compileCommands": "D:\\UnrealProj\\UE5Course\\ToonTanks\\.vscode\\compileCommands_Default.json"
+            "compileCommands": "D:\\UnrealProj\\UE5Course\\TinyTanks\\.vscode\\compileCommands_Default.json"
         }
     ],
     "version": 4

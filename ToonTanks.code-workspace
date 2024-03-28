@@ -30,7 +30,7 @@
 					"ToonTanks",
 					"Win64",
 					"Debug",
-					"D:\\UnrealProj\\UE5Course\\ToonTanks\\ToonTanks.uproject",
+					"D:\\UnrealProj\\UE5Course\\TinyTanks\\ToonTanks.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -47,7 +47,7 @@
 					"ToonTanks",
 					"Win64",
 					"Debug",
-					"D:\\UnrealProj\\UE5Course\\ToonTanks\\ToonTanks.uproject",
+					"D:\\UnrealProj\\UE5Course\\TinyTanks\\ToonTanks.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -67,7 +67,7 @@
 					"ToonTanks",
 					"Win64",
 					"Debug",
-					"D:\\UnrealProj\\UE5Course\\ToonTanks\\ToonTanks.uproject",
+					"D:\\UnrealProj\\UE5Course\\TinyTanks\\ToonTanks.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -84,7 +84,7 @@
 					"ToonTanks",
 					"Win64",
 					"DebugGame",
-					"D:\\UnrealProj\\UE5Course\\ToonTanks\\ToonTanks.uproject",
+					"D:\\UnrealProj\\UE5Course\\TinyTanks\\ToonTanks.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -101,7 +101,7 @@
 					"ToonTanks",
 					"Win64",
 					"DebugGame",
-					"D:\\UnrealProj\\UE5Course\\ToonTanks\\ToonTanks.uproject",
+					"D:\\UnrealProj\\UE5Course\\TinyTanks\\ToonTanks.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -121,7 +121,7 @@
 					"ToonTanks",
 					"Win64",
 					"DebugGame",
-					"D:\\UnrealProj\\UE5Course\\ToonTanks\\ToonTanks.uproject",
+					"D:\\UnrealProj\\UE5Course\\TinyTanks\\ToonTanks.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -138,7 +138,7 @@
 					"ToonTanks",
 					"Win64",
 					"Development",
-					"D:\\UnrealProj\\UE5Course\\ToonTanks\\ToonTanks.uproject",
+					"D:\\UnrealProj\\UE5Course\\TinyTanks\\ToonTanks.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -155,7 +155,7 @@
 					"ToonTanks",
 					"Win64",
 					"Development",
-					"D:\\UnrealProj\\UE5Course\\ToonTanks\\ToonTanks.uproject",
+					"D:\\UnrealProj\\UE5Course\\TinyTanks\\ToonTanks.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -175,7 +175,7 @@
 					"ToonTanks",
 					"Win64",
 					"Development",
-					"D:\\UnrealProj\\UE5Course\\ToonTanks\\ToonTanks.uproject",
+					"D:\\UnrealProj\\UE5Course\\TinyTanks\\ToonTanks.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -192,7 +192,7 @@
 					"ToonTanks",
 					"Win64",
 					"Test",
-					"D:\\UnrealProj\\UE5Course\\ToonTanks\\ToonTanks.uproject",
+					"D:\\UnrealProj\\UE5Course\\TinyTanks\\ToonTanks.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -209,7 +209,7 @@
 					"ToonTanks",
 					"Win64",
 					"Test",
-					"D:\\UnrealProj\\UE5Course\\ToonTanks\\ToonTanks.uproject",
+					"D:\\UnrealProj\\UE5Course\\TinyTanks\\ToonTanks.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -229,7 +229,7 @@
 					"ToonTanks",
 					"Win64",
 					"Test",
-					"D:\\UnrealProj\\UE5Course\\ToonTanks\\ToonTanks.uproject",
+					"D:\\UnrealProj\\UE5Course\\TinyTanks\\ToonTanks.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -246,7 +246,7 @@
 					"ToonTanks",
 					"Win64",
 					"Shipping",
-					"D:\\UnrealProj\\UE5Course\\ToonTanks\\ToonTanks.uproject",
+					"D:\\UnrealProj\\UE5Course\\TinyTanks\\ToonTanks.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -263,7 +263,7 @@
 					"ToonTanks",
 					"Win64",
 					"Shipping",
-					"D:\\UnrealProj\\UE5Course\\ToonTanks\\ToonTanks.uproject",
+					"D:\\UnrealProj\\UE5Course\\TinyTanks\\ToonTanks.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -283,7 +283,7 @@
 					"ToonTanks",
 					"Win64",
 					"Shipping",
-					"D:\\UnrealProj\\UE5Course\\ToonTanks\\ToonTanks.uproject",
+					"D:\\UnrealProj\\UE5Course\\TinyTanks\\ToonTanks.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -300,7 +300,7 @@
 					"ToonTanksEditor",
 					"Win64",
 					"Debug",
-					"D:\\UnrealProj\\UE5Course\\ToonTanks\\ToonTanks.uproject",
+					"D:\\UnrealProj\\UE5Course\\TinyTanks\\ToonTanks.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -317,7 +317,7 @@
 					"ToonTanksEditor",
 					"Win64",
 					"Debug",
-					"D:\\UnrealProj\\UE5Course\\ToonTanks\\ToonTanks.uproject",
+					"D:\\UnrealProj\\UE5Course\\TinyTanks\\ToonTanks.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -337,7 +337,7 @@
 					"ToonTanksEditor",
 					"Win64",
 					"Debug",
-					"D:\\UnrealProj\\UE5Course\\ToonTanks\\ToonTanks.uproject",
+					"D:\\UnrealProj\\UE5Course\\TinyTanks\\ToonTanks.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -354,7 +354,7 @@
 					"ToonTanksEditor",
 					"Win64",
 					"DebugGame",
-					"D:\\UnrealProj\\UE5Course\\ToonTanks\\ToonTanks.uproject",
+					"D:\\UnrealProj\\UE5Course\\TinyTanks\\ToonTanks.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -371,7 +371,7 @@
 					"ToonTanksEditor",
 					"Win64",
 					"DebugGame",
-					"D:\\UnrealProj\\UE5Course\\ToonTanks\\ToonTanks.uproject",
+					"D:\\UnrealProj\\UE5Course\\TinyTanks\\ToonTanks.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -391,7 +391,7 @@
 					"ToonTanksEditor",
 					"Win64",
 					"DebugGame",
-					"D:\\UnrealProj\\UE5Course\\ToonTanks\\ToonTanks.uproject",
+					"D:\\UnrealProj\\UE5Course\\TinyTanks\\ToonTanks.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -408,7 +408,7 @@
 					"ToonTanksEditor",
 					"Win64",
 					"Development",
-					"D:\\UnrealProj\\UE5Course\\ToonTanks\\ToonTanks.uproject",
+					"D:\\UnrealProj\\UE5Course\\TinyTanks\\ToonTanks.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -425,7 +425,7 @@
 					"ToonTanksEditor",
 					"Win64",
 					"Development",
-					"D:\\UnrealProj\\UE5Course\\ToonTanks\\ToonTanks.uproject",
+					"D:\\UnrealProj\\UE5Course\\TinyTanks\\ToonTanks.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -445,7 +445,7 @@
 					"ToonTanksEditor",
 					"Win64",
 					"Development",
-					"D:\\UnrealProj\\UE5Course\\ToonTanks\\ToonTanks.uproject",
+					"D:\\UnrealProj\\UE5Course\\TinyTanks\\ToonTanks.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -462,7 +462,7 @@
 			{
 				"name": "Launch ToonTanks (Debug)",
 				"request": "launch",
-				"program": "D:\\UnrealProj\\UE5Course\\ToonTanks\\Binaries\\Win64\\UnrealGame-Win64-Debug.exe",
+				"program": "D:\\UnrealProj\\UE5Course\\TinyTanks\\Binaries\\Win64\\UnrealGame-Win64-Debug.exe",
 				"preLaunchTask": "ToonTanks Win64 Debug Build",
 				"args": [
 				],
@@ -478,7 +478,7 @@
 			{
 				"name": "Launch ToonTanks (DebugGame)",
 				"request": "launch",
-				"program": "D:\\UnrealProj\\UE5Course\\ToonTanks\\Binaries\\Win64\\UnrealGame-Win64-DebugGame.exe",
+				"program": "D:\\UnrealProj\\UE5Course\\TinyTanks\\Binaries\\Win64\\UnrealGame-Win64-DebugGame.exe",
 				"preLaunchTask": "ToonTanks Win64 DebugGame Build",
 				"args": [
 				],
@@ -494,7 +494,7 @@
 			{
 				"name": "Launch ToonTanks (Development)",
 				"request": "launch",
-				"program": "D:\\UnrealProj\\UE5Course\\ToonTanks\\Binaries\\Win64\\UnrealGame.exe",
+				"program": "D:\\UnrealProj\\UE5Course\\TinyTanks\\Binaries\\Win64\\UnrealGame.exe",
 				"preLaunchTask": "ToonTanks Win64 Development Build",
 				"args": [
 				],
@@ -510,7 +510,7 @@
 			{
 				"name": "Launch ToonTanks (Test)",
 				"request": "launch",
-				"program": "D:\\UnrealProj\\UE5Course\\ToonTanks\\Binaries\\Win64\\UnrealGame-Win64-Test.exe",
+				"program": "D:\\UnrealProj\\UE5Course\\TinyTanks\\Binaries\\Win64\\UnrealGame-Win64-Test.exe",
 				"preLaunchTask": "ToonTanks Win64 Test Build",
 				"args": [
 				],
@@ -526,7 +526,7 @@
 			{
 				"name": "Launch ToonTanks (Shipping)",
 				"request": "launch",
-				"program": "D:\\UnrealProj\\UE5Course\\ToonTanks\\Binaries\\Win64\\UnrealGame-Win64-Shipping.exe",
+				"program": "D:\\UnrealProj\\UE5Course\\TinyTanks\\Binaries\\Win64\\UnrealGame-Win64-Shipping.exe",
 				"preLaunchTask": "ToonTanks Win64 Shipping Build",
 				"args": [
 				],
@@ -545,7 +545,7 @@
 				"program": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Binaries\\Win64\\UnrealEditor-Win64-Debug.exe",
 				"preLaunchTask": "ToonTanksEditor Win64 Debug Build",
 				"args": [
-					"D:\\UnrealProj\\UE5Course\\ToonTanks\\ToonTanks.uproject"
+					"D:\\UnrealProj\\UE5Course\\TinyTanks\\ToonTanks.uproject"
 				],
 				"cwd": "C:\\Program Files\\Epic Games\\UE_5.3",
 				"stopAtEntry": false,
@@ -562,7 +562,7 @@
 				"program": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Binaries\\Win64\\UnrealEditor-Win64-DebugGame.exe",
 				"preLaunchTask": "ToonTanksEditor Win64 DebugGame Build",
 				"args": [
-					"D:\\UnrealProj\\UE5Course\\ToonTanks\\ToonTanks.uproject"
+					"D:\\UnrealProj\\UE5Course\\TinyTanks\\ToonTanks.uproject"
 				],
 				"cwd": "C:\\Program Files\\Epic Games\\UE_5.3",
 				"stopAtEntry": false,
@@ -579,7 +579,7 @@
 				"program": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Binaries\\Win64\\UnrealEditor.exe",
 				"preLaunchTask": "ToonTanksEditor Win64 Development Build",
 				"args": [
-					"D:\\UnrealProj\\UE5Course\\ToonTanks\\ToonTanks.uproject"
+					"D:\\UnrealProj\\UE5Course\\TinyTanks\\ToonTanks.uproject"
 				],
 				"cwd": "C:\\Program Files\\Epic Games\\UE_5.3",
 				"stopAtEntry": false,
@@ -599,7 +599,7 @@
 				"args": [
 					"-projectfiles",
 					"-vscode",
-					"-project=D:\\UnrealProj\\UE5Course\\ToonTanks\\ToonTanks.uproject",
+					"-project=D:\\UnrealProj\\UE5Course\\TinyTanks\\ToonTanks.uproject",
 					"-game",
 					"-engine",
 					"-dotnet"

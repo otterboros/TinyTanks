@@ -64,6 +64,38 @@
 		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
 	},
 	{
+		"file": "D:\\UnrealProj\\UE5Course\\TinyTanks\\Source\\ToonTanks\\TinyTanksGameMode.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\UnrealProj\\UE5Course\\TinyTanks\\.vscode\\compileCommands_Default\\ToonTanks.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\UnrealProj\\UE5Course\\TinyTanks\\Source\\ToonTanks\\TinyTanksGameMode.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\UnrealProj\\UE5Course\\TinyTanks\\.vscode\\compileCommands_Default\\ToonTanks.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\UnrealProj\\UE5Course\\TinyTanks\\Source\\ToonTanks\\TinyTanksPlayerController.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\UnrealProj\\UE5Course\\TinyTanks\\.vscode\\compileCommands_Default\\ToonTanks.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\UnrealProj\\UE5Course\\TinyTanks\\Source\\ToonTanks\\TinyTanksPlayerController.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\UnrealProj\\UE5Course\\TinyTanks\\.vscode\\compileCommands_Default\\ToonTanks.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
 		"file": "D:\\UnrealProj\\UE5Course\\TinyTanks\\Source\\ToonTanks\\ToonTanks.Build.cs",
 		"arguments": [
 			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",

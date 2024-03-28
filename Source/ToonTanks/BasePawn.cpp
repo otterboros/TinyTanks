@@ -41,3 +41,8 @@ void ABasePawn::FireProjectile()
 	auto Projectile = GetWorld()->SpawnActor<AProjectile>(ProjectileClass, Location, Rotation);
 	Projectile->SetOwner(this);
 }
+
+void ABasePawn::HandleDestruction()
+{
+	// TODO: Handle all visual and sfx that happen when a BasePawn dies
+}

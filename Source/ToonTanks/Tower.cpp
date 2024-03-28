@@ -50,3 +50,9 @@ bool ATower::IsTankInFireRange()
     }
     return false;
 }
+
+void ATower::HandleDestruction()
+{
+    Super::HandleDestruction();
+    Destroy();
+}

@@ -44,5 +44,12 @@ void ABasePawn::FireProjectile()
 
 void ABasePawn::HandleDestruction()
 {
-	// TODO: Handle all visual and sfx that happen when a BasePawn dies
+	if(DeathParticleSystem)
+	{
+		UGameplayStatics::SpawnEmitterAtLocation(this, DeathParticleSystem, GetActorLocation(), GetActorRotation());
+	}
+	if(DeathSound)
+	{
+		UGameplayStatics::PlaySoundAtLocation(this,DeathSound,GetActorLocation());
+	}
 }

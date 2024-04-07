@@ -102,4 +102,5 @@ void ATank::HandleDestruction()
 
     SetActorHiddenInGame(true);
     SetActorTickEnabled(false);
+    bIsTankAlive = false;
 }

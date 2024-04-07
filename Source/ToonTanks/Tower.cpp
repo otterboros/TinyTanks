@@ -29,7 +29,11 @@ void ATower::Tick(float DeltaTime)
 void ATower::CheckFireCondition()
 {
     //Find the distance to the Tank
-    if(IsTankInFireRange())
+    if (Tank == nullptr)
+    {
+        return;
+    }
+    if(IsTankInFireRange() && Tank->bIsTankAlive)
     {
         FireProjectile();
     }

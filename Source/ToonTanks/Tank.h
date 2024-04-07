@@ -32,6 +32,8 @@ public:
 
 	APlayerController* GetPlayerController() const {return PlayerController;}
 
+	bool bIsTankAlive = true;
+
 protected:
 	UPROPERTY(EditAnywhere, BlueprintReadOnly, Category="Input")
 	UInputMappingContext* TankMappingContext;
@@ -60,7 +62,7 @@ private:
 
 	UPROPERTY(VisibleAnywhere, Category = "Tank Components")
 	class UCameraComponent* CameraComponent;
-
+	
 	UPROPERTY(EditAnywhere, Category="Movement")
 	float Speed = 500.0f;
 
